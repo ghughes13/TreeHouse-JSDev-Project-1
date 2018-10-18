@@ -5,6 +5,6 @@
 
 **Why:** This Project was created to learn more about and practice writing JavaScript, HTML, and CSS
 
-**Skills** Used: HTML, CSS, JavaScript
+**Skills Used:** HTML, CSS, JavaScript
 
 Created by Ghughes13
